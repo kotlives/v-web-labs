@@ -4,59 +4,58 @@ import './style.css'
 const products = [
   {
     id: 1,
-    title: "Худм с принтом",
+    title: "Худи с принтом",
     price: 999,
     oldPrice: 1180
   },
   {
     id: 2,
-    title: "Худм без принта",
+    title: "Худи без принта",
     price: 899,
     oldPrice: 1100
   },
   {
     id: 3,
-    title: "Худм спортивный",
+    title: "Худи спортивный",
     price: 1199,
     oldPrice: 1400
   },
   {
     id: 4,
-    title: "Худм оверсайз",
+    title: "Худи оверсайз",
     price: 1299,
     oldPrice: 1500
   },
   {
     id: 5,
-    title: "Худм детский",
+    title: "Худи детский",
     price: 799,
     oldPrice: 950
   },
   {
     id: 6,
-    title: "Худм женский",
+    title: "Худи женский",
     price: 1099,
     oldPrice: 1300
   },
-  // Новые товары без старых цен
   {
     id: 7,
-    title: "Худм классический",
+    title: "Худи классический",
     price: 1499
   },
   {
     id: 8,
-    title: "Худм утепленный",
+    title: "Худи утепленный",
     price: 1799
   },
   {
     id: 9,
-    title: "Худм летний",
+    title: "Худи летний",
     price: 699
   },
   {
     id: 10,
-    title: "Худм премиум",
+    title: "Худи премиум",
     price: 2499
   }
 ];
